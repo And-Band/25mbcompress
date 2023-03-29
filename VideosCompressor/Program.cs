@@ -34,7 +34,7 @@ namespace VideosCompressor
                 Console.WriteLine("");
                 Console.WriteLine("");
                 Console.WriteLine("");
-                Console.WriteLine("Icon is from Icon8:");
+                Console.WriteLine("Icon is from Icons8:");
                 Console.WriteLine("https://icons8.com/icon/56331/compress");
                 if(FirstInput == "") { Console.ReadKey(); }
                 Environment.Exit(0);
