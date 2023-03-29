@@ -10,7 +10,7 @@ Easiest way is with "winget install ffmpeg".
 
 
 
-Icon is from Icon8:
+Icon is from Icons8:
 https://icons8.com/icon/56331/compress
 
 
