@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "VideosCompressor": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\LocalPC\\Videos\\temp workspace\\pandatest.mp4",
+      "workingDirectory": "C:\\Users\\LocalPC\\Videos\\temp workspace\\"
+    }
+  }
+}
