@@ -1,4 +1,4 @@
-# 8mbcompress
+# 25mbcompress formerl ~~chuck's~~ 8mbcompress
 
 Drag and drop on to 8mbc or specifing file from command line.
 
